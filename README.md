@@ -72,3 +72,6 @@
 I used cleaned data and Streamlit in order to create a interactive dashboard . By choosing the title of a desire book , we can see the book details and reviews
 In this dashboard, we can summarize long reviews
 ![alt Text](https://github.com/meysamraz/analayzing-amazon-books-related-to-data-science/blob/master/src/demo2.gif)
+<img src = "src/10.png"  width ="500"/>
+<img src = "src/11.png"  width ="500"/>
+
