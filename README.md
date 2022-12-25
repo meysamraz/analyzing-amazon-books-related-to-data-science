@@ -1,6 +1,7 @@
 # Analyzing books related to Data science
+Books can be a very good source for learning data science. In this project, I tried to analyze the data of 1000 books about data science collected from Amazon
 
-# Overview :
+# Project overview :
 
 <img src = "src/1.png" width ="230" /> <img src = "src/2.png" width ="230" /> <img src = "src/3.png" width ="230" />
 <img src = "src/4.png" width ="230" /> <img src = "src/5.png" width ="230" /> <img src = "src/6.png" width ="230" />
