@@ -3,8 +3,8 @@
 Books can be a very good source for learning data science. In this project, I tried to analyze the data of 1000 books about data science collected from Amazon
 
 # What is the purpose of this analysis ?
-- ## Get to know the books related to data science that are sold on Amazon
-- ## Find the best books based on user reviews related to data science and related fields
+-  Get to know the books related to data science that are sold on Amazon
+-  Find the best books based on user reviews related to data science and related fields
 
 # Project overview :
 
