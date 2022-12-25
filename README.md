@@ -81,3 +81,19 @@ In this dashboard, we can summarize long reviews
 <img src = "src/10.png"  width ="500"/>
 <img src = "src/11.png"  width ="500"/>
 
+
+##  Libraries and FrameWorks used in the project
+
+- [streamlit](https://streamlit.io/)
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [termcolor](https://pypi.org/project/termcolor/)
+- [wordcloud](https://pypi.org/project/wordcloud/)
+- [yellowbrick](https://pypi.org/project/yellowbrick/)
+- [spotipy](https://spotipy.readthedocs.io/)
+- [scikit-learn](https://scikit-learn.org/)
+
+
+
