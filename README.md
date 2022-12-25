@@ -2,6 +2,9 @@
 
 # Overview :
 
+<img src = "src/1.png" width ="230" /> <img src = "src/2.png" width ="230" /> <img src = "src/3.png" width ="230" />
+
+
 **This project uses the Data science books dataset available on Kaggle https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books.**
 ### The dataset contains 946 books obtained from scraping Amazon books related to data science, statistics, data analysis, Python, deep learning, and machine learning.
 
