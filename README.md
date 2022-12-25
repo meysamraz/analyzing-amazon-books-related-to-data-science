@@ -5,6 +5,7 @@
 <img src = "src/1.png" width ="230" /> <img src = "src/2.png" width ="230" /> <img src = "src/3.png" width ="230" />
 <img src = "src/4.png" width ="230" /> <img src = "src/5.png" width ="230" /> <img src = "src/6.png" width ="230" />
 <img src = "src/7.png" width ="230" /> <img src = "src/8.png" width ="230" /> <img src = "src/9.png" width ="230" />
+![alt Text](https://github.com/meysamraz/analayzing-amazon-books-related-to-data-science/blob/master/src/demo2.gif)
 
 
 **This project uses the Data science books dataset available on Kaggle https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books.**
