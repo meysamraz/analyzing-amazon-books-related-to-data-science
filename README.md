@@ -66,3 +66,8 @@
     - Books price in each cluster
 - ## Scrape reviews from amazon
 - ## Summarizing reviews
+
+
+## Interactive dashboard 
+I used cleaned data and Streamlit in order to crreate a  interactive dashboard . By choosing the title of a desire book , we can see the book details and reviews
+![alt Text](https://github.com/meysamraz/analayzing-amazon-books-related-to-data-science/blob/master/src/demo2.gif)
